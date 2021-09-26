@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheng-Yu Huang a.k.a. Kou"
+  name             : "Cheng-Yu Huang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person. A.k.a Kou, not cow"
+  bio              : "I am an **amazing** person. /n A.k.a Kou, not cow"
   location         : "Taipei"
   email            :
   links:
