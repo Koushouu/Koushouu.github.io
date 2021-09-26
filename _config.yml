@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "KouShouu"
 title_separator          : "-"
 subtitle                 : "[or just Kou]"
-name                     : "Cheng-Yu Huang a.k.a. Kou"
+name                     : "Cheng-Yu Huang"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/kou_huang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/koushouu/"
 
 # Site Footer
 footer:
