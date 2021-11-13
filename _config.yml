@@ -97,9 +97,6 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-
-header:
-  image: "/assets/kou.jpg"
   
 # Site Author
 author:
