@@ -111,7 +111,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kou12301230@gmail.com"
     - label: "Medium"
-      icon: "fab fa-medium"
+      icon: "fab fa-fw fa-medium"
       url: "https://koukounut.medium.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
