@@ -5,4 +5,5 @@ sitemap: true
 permalink: /home/
 header:
   image: /assets/images/PEDV_header.JPG
+author_profile: false
 ---
