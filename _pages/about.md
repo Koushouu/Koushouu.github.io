@@ -4,7 +4,7 @@ layout: single
 sitemap: true
 permalink: /about/
 header:
-  image: /assets/images/PEDV_header.jpg
+  image: /assets/images/PEDV_header.JPG
 ---
 
 ## Abstract
