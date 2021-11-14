@@ -2,7 +2,7 @@
 title: "Home"
 layout: single
 sitemap: true
-permalink: /
+permalink: //
 header:
   image: /assets/images/PEDV_header.JPG
 ---
