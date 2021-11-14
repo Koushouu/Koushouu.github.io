@@ -8,4 +8,4 @@ header:
   image: /assets/images/PEDV_header.JPG
 author_profile: false
 ---
-![image-left](/assets/kou.jpg = 150x150){: .align-left}
+![image-left](/assets/images/kou_300x300.jpg){: .align-left}
