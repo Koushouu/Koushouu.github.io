@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Projects"
-    url: /projects/
+    url: https://koushouu.github.io/
+  - title: "Writing"
+    url: https://koukounut.medium.com/
+  - title: "Gallery"
+    url: https://www.instagram.com/koushouu/
   #- title: "Arts & Gardening"
   #    url: /arts_n_gardening/
   #- title: "Cooking"
