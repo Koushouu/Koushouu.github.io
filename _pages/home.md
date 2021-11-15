@@ -2,7 +2,7 @@
 layout: splash
 sitemap: true
 classes: wide
-permalink: /home/
+permalink: /
 header:
   image: /assets/images/viruse_header.png
 author_profile: false
