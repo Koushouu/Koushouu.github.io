@@ -4,7 +4,7 @@ sitemap: true
 classes: wide
 permalink: /home/
 header:
-  image: /assets/images/PEDV_header.JPG
+  image: /assets/images/viruses_header.PNG
 author_profile: false
 ---
 ![image-left](/assets/images/kou_300x300.jpg){: .align-left}
