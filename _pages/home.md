@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 sitemap: true
 classes: wide
 permalink: /home/
