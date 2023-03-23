@@ -27,6 +27,8 @@ p {
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.75em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
   color: #393E46;
 }
 
@@ -35,10 +37,22 @@ p {
   justify-content: space-between;
 }
 
+.indented {
+	padding-left: 1.5em;
+}
+
 .image {
   border: none;
   margin: 1.5em 0;
   padding: 0;
   border-radius: 0;
   text-align: center;
+}
+
+.soft_hr {
+  border-top: 5px dotted #b2bfbf;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  width: 30%;
 }
