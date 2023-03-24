@@ -22,7 +22,13 @@ p {
   margin-right: 0.5em;
 }
 
-.page-title {
+.icons{
+  text-align: right;
+  margin-right: 0.5em;
+  float: right;
+}
+
+.logo {
   font-size: 1.0rem;
   font-weight: 700;
   margin-top: 0;
@@ -30,6 +36,8 @@ p {
   margin-left: 0.5em;
   margin-right: 0.5em;
   color: #393E46;
+  text-decoration: none;
+  float: left;
 }
 
 .column-list {
@@ -55,4 +63,11 @@ p {
   border-left-width: 0px;
   border-right-width: 0px;
   width: 30%;
+}
+
+.fa{
+  text-decoration: none;
+  color: #567189;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
 }
