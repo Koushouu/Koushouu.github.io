@@ -25,7 +25,6 @@ p {
 .icons{
   text-align: right;
   margin-right: 0.5em;
-  float: right;
 }
 
 .logo {
@@ -37,7 +36,6 @@ p {
   margin-right: 0.5em;
   color: #393E46;
   text-decoration: none;
-  float: left;
 }
 
 .column-list {
